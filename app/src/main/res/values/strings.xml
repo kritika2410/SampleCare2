@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleCare2</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="cont">CONTINUE</string>
+
+    <string name="slide_1_title">Welcome to Care Connect</string>
+    <string name="slide_1_desc">Hi</string>
+    <string name="slide_2_title">Welcome again</string>
+    <string name="slide_2_desc">Care connect</string>
+    <string name="slide_3_title">Care connect</string>
+    <string name="slide_3_desc">Care connect</string>
+</resources>
